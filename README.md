@@ -11,7 +11,7 @@ Reconhecimento de Voz e Sintetização de Fala com Python
 
 ### Reconhecimento de Vóz
 
-O reconhecimento de vózz é a capacidade computacional de transformar uma fala em texto
+O reconhecimento de vóz é a capacidade computacional de transformar uma fala em texto
 
 <a href="https://github.com/renatotvs/reconhecimento-de-voz-e-sintetizacao-de-fala-com-python/blob/master/2-Reconhecimento Vóz.ipynb">2-Reconhecimento Vóz.ipynb</a> - Notebook com exemplos
 
